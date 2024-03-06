@@ -1,0 +1,36 @@
+#container{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    margin: 15%;
+}
+#table{
+    border: 1px solid black;
+    box-shadow: 10px 10px;
+    height: 80%;   
+}
+#txt{
+    font-size:60px;
+    margin: 2px;
+}
+#text{
+    width: 95%;
+    height: 50%;
+    font-size:40px;
+    background-color: wheat;
+    text-align: right;
+}
+button{
+    height: 100px;
+    width: 100px;
+    color: whitesmoke;
+    background-color: black;
+    font-size: 30px;
+}
+button:active{
+    color:gold;
+}
+#btn{
+    width: 350%;
+    margin:5px 10px;
+}
